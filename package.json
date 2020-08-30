@@ -1,6 +1,6 @@
 {
-  "name": "react-blog-github",
-  "homepage": "https://saadpasta.github.io/react-blog-github",
+  "name": "blog",
+  "homepage": "https://mayankpande88.github.io/blogs",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -28,7 +28,8 @@
     "react-scripts": "3.3.0",
     "react-syntax-highlighter": "^12.2.1",
     "reading-time": "^1.2.0",
-    "styled-components": "^5.0.1"
+    "styled-components": "^5.0.1",
+    "react-particles-js":"^2.4.0"
   },
   "scripts": {
     "predeploy": "npm run build",
